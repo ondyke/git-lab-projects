@@ -1,2 +1,1 @@
-# GitLab Project
-# git-lab-projects
+# Zarttalent Gitlab Project
