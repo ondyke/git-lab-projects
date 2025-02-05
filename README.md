@@ -1,1 +1,1 @@
-# Git-lab project
+# Gitlab project
